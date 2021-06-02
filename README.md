@@ -1,4 +1,6 @@
 # homepage
+## VUE3 + TypeScript
+
 
 ## Project setup
 ```
